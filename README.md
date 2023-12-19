@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elavalasrinivasreddy
-- 👀 I’m interested in Machine Learning, Deep Learning and Computer Vision
-- 🌱 I’m currently learning Computer Vision
+- 👀 I’m interested on {Machine Learning || Deep Learning || NLP || Computer Vision }
+- 🌱 I’m currently learning LLM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... elavalasrinivasreddy@gmail.com
 
